@@ -86,7 +86,7 @@
 <tr>
 <td width="33%" valign="top">
 
-### <img src="https://assets.papermc.io/brand/papermc_logo.min.svg" width="20"/> 자바 플러그인 개발
+## <img src="https://assets.papermc.io/brand/papermc_logo.min.svg" width="20"/> 자바 플러그인 개발
 
 방송 기획에 맞춘 자체 플러그인 및 스크립트 제작
 <!-- 여기에 플러그인 스크린샷 삽입 예정 -->
@@ -99,7 +99,7 @@
 </td>
 <td width="33%" valign="top">
 
-### <img src="https://cdn.simpleicons.org/discord" width="20"/> 디스코드 봇 개발
+## <img src="https://cdn.simpleicons.org/discord" width="20"/> 디스코드 봇 개발
 
 서버 인증 · 신청 · 관리 자동화 봇
 
@@ -112,7 +112,7 @@
 </td>
 <td width="33%" valign="top">
 
-### 🚀 커스텀 런처 개발
+## 🚀 커스텀 런처 개발
 
 헬리오스 기반 커스텀 런처 제작<br/>
 모드팩 자동 배포로 스트리머들의 접속 진입장벽 최소화
@@ -135,7 +135,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 자체 서버 및 가상화 운영
+## 자체 서버 및 가상화 운영
 
 물리 서버 구축부터 가상화 환경 구성, 자원 배분까지 직접 설계
 
@@ -144,7 +144,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 네트워크 설계 및 관리
+## 네트워크 설계 및 관리
 
 내부망 구성, 라우팅, 방화벽 정책 설계 및 운영
 
@@ -155,7 +155,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 웹 서버 및 웹 방화벽 (WAF)
+## 웹 서버 및 웹 방화벽 (WAF)
 
 웹 서버 구성 및 WAF 적용, 보안 정책 운영
 
@@ -164,7 +164,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 이메일 서비스 구축
+## 이메일 서비스 구축
 
 자체 메일 서버 구축 및 도메인 관리<br/>
 브랜드 도메인 메일 발급 가능
