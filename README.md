@@ -2,7 +2,7 @@
 <div align= "center">
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> # DevOps Engineer 👨‍💻 </h2>  
+    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> DevOps Engineer 👨‍💻 </h1>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> </li>🚀 Passionate about building </li>reliable, scalable, and automated systems.</li> </div> 
     </div>
     <div align= "center">
