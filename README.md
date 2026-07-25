@@ -1,11 +1,11 @@
 
-<div align= "center">
+<div align= "left">
     </div>
-    <div align= "center"> 
+    <div align= "left"> 
     <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> DevOps Engineer 👨‍💻 </h1>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> </li>🚀 Passionate about building </li>reliable, scalable, and automated systems.</li> </div> 
     </div>
-    <div align= "center">
+    <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
           <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
@@ -22,7 +22,7 @@
           <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
           </div>
     </div>
-    <div align= "center">
+    <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center">  </div>  <br> 
     <div align= "center">  </div> 
