@@ -89,10 +89,8 @@
 ## <img src="https://assets.papermc.io/brand/papermc_logo.min.svg" width="20"/> 자바 플러그인 개발
 
 방송 기획에 맞춘 자체 플러그인 및 스크립트 제작
-<img src="/assets/plugin.png" width="100%"/>
-
+<img src="./assets/plugin.png" width="100%"/>
 <a href="./project/plugins.md">
-<br>
 <img src="https://img.shields.io/badge/개발%20현황%20보기-181717?style=for-the-badge&logo=github" height="30"/>
 </a>
 
