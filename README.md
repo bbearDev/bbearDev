@@ -69,7 +69,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🖥️ 자체 서버 및 네트워크 구축·운영
+## 🖥️ 자체 서버 및 네트워크 구축·운영
 
 서버 구축부터 네트워크 구성, 운영 환경 관리까지 직접 설계
 
@@ -79,7 +79,7 @@
 
 <td width="50%" valign="top">
 
-### 🌐 네트워크 설계 및 관리
+## 🌐 네트워크 설계 및 관리
 
 내부망 구성, 라우팅, 방화벽 정책 등 설계 및 운영
 
@@ -91,7 +91,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### <img src="./assets/chzzk.svg" width="20"/> 스트리머 서버 개발 및 운영
+## <img src="./assets/chzzk.svg" width="20"/> 스트리머 서버 개발 및 운영
 <br>
 
 - 라온 서버 - 총괄 운영 및 개발
@@ -110,7 +110,7 @@
 
 <td width="50%" valign="top">
 
-### 🧱 웹 서버 및 웹 방화벽 구축
+## 🧱 웹 서버 및 웹 방화벽 구축
 
 웹 서버 구성 및 WAF 적용, 보안 정책 운영 관리
 
@@ -122,7 +122,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 📪 이메일 서비스 구축
+## 📪 이메일 서비스 구축
 
 이메일 서버 구축 및 도메인 관리 
 
@@ -132,13 +132,41 @@
 
 <td width="50%" valign="top">
 
-### <img src="https://assets.papermc.io/brand/papermc_logo.min.svg" width="20"/> 자바 플러그인 개발
+## <img src="https://assets.papermc.io/brand/papermc_logo.min.svg" width="20"/> 자바 플러그인 개발
 
 사용자 요구사항에 따른 자체 플러그인 및 스크립트 제작
 <br>
 <br>
-<a href="https://raw.githubusercontent.com/bbearDev/bbearDev/refs/heads/main/project/portfolio.md">
-<img src="https://img.shields.io/badge/개발%20현황%20보러가기-플러그인&디스코드%20봇-181717?style=for-the-badge&logo=github" width="300">
+<a href="https://raw.githubusercontent.com/bbearDev/bbearDev/refs/heads/main/project/plugins.md">
+<img src="https://img.shields.io/badge/개발%20현황%20보러가기-181717?style=for-the-badge&logo=github" width="300">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## <img src="https://cdn.simpleicons.org/discord" width="20"/> 디스코드 봇 개발
+
+<img src="./assets/discordbot.png" width="100%">
+<br>
+<a href="https://raw.githubusercontent.com/bbearDev/bbearDev/refs/heads/main/project/discordbot.md">
+<img src="https://img.shields.io/badge/자세히보기-181717?style=for-the-badge&logo=github" width="150">
+</a>
+
+
+</td>
+
+<td width="50%" valign="top">
+
+## <img src="https://minecraft.wiki/images/Minecraft_Launcher_MS_Icon.png?231b1" width="20"/> 커스텀 런처 개발
+
+헬리오스 기반 커스텀 런처 제작 
+<br>
+<img src="https://github.com/BabyBear7/launcher-demo/raw/main/img/LauncherDemo.gif" width="100%">
+<a href="https://github.com/BabyBear7/launcher-demo">
+<img src="https://img.shields.io/badge/자세히보기-181717?style=for-the-badge&logo=github" width="150">
 </a>
 
 </td>
