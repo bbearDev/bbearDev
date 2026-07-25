@@ -138,7 +138,7 @@
 <br>
 <br>
 <a href="https://raw.githubusercontent.com/bbearDev/bbearDev/refs/heads/main/project/portfolio.md">
-<img src="https://img.shields.io/badge/개발%20현황%20보러가기-플러그인&디스코드%20봇-181717?style=for-the-badge&logo=github" width="400">
+<img src="https://img.shields.io/badge/개발%20현황%20보러가기-플러그인&디스코드%20봇-181717?style=for-the-badge&logo=github" width="300">
 </a>
 
 </td>
