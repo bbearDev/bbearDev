@@ -1,8 +1,5 @@
-## Hi there 👋
-
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=7ac6ff&height=120&text=BabyBear&animation=&fontColor=000000&fontSize=60" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> # DevOps Engineer 👨‍💻 </h2>  
